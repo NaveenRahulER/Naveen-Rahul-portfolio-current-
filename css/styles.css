@@ -1,0 +1,16 @@
+body {
+    font-family: "Poppins", serif;
+}
+
+.banner {
+    background-image: url(../image/bench.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+
+
+.skill {
+    padding: 70px 0;
+}
+
